@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>W小生</title>
   
-  
+  <subtitle>专注于游戏</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
@@ -49,23 +49,6 @@
     <summary type="html">
     
       &lt;h1 id=&quot;我的博客编写&quot;&gt;&lt;a href=&quot;#我的博客编写&quot; class=&quot;headerlink&quot; title=&quot;我的博客编写&quot;&gt;&lt;/a&gt;我的博客编写&lt;/h1&gt;
-    
-    </summary>
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>404</title>
-    <link href="http://yoursite.com/2019/07/19/404/"/>
-    <id>http://yoursite.com/2019/07/19/404/</id>
-    <published>2019-07-19T08:41:10.000Z</published>
-    <updated>2020-04-14T13:54:59.951Z</updated>
-    
-    <summary type="html">
-    
-      你来到了没有知识的荒原 :(
     
     </summary>
     
